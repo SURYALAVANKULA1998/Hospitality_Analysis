@@ -15,6 +15,7 @@
   #### Checked out cancel No show
   #### Weekly trend Key trend (Revenue, Total booking, Occupancy)
   #### Dashboard Interaction <a href="https://github.com/SURYALAVANKULA1998/Hospitality_Analysis/blob/main/Excel%20Dashboard.png">View Dashboard</a>
+  #### Dashboard Interaction <a href="https://github.com/SURYALAVANKULA1998/Hospitality_Analysis/blob/main/Tableau_Dashboard.png">View Dashboard</a>
 
   ## Process
     Data Collection: Extracted relevant sales and booking data from Salesforce related to hospitality operations.
@@ -24,6 +25,10 @@
 
   ## Dashboard
   <img width="1784" height="860" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/8552bb71-fcab-46d6-8b6e-79032526d4eb" />
+
+  ## Dashboard
+  <img width="2531" height="1424" alt="Tableau_Dashboard" src="https://github.com/user-attachments/assets/023b18d6-887c-4176-a0bf-23d616b1ccda" />
+
 
   ## Project Insights:
 
