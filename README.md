@@ -29,6 +29,10 @@
   ## Dashboard
   <img width="2531" height="1424" alt="Tableau_Dashboard" src="https://github.com/user-attachments/assets/023b18d6-887c-4176-a0bf-23d616b1ccda" />
 
+  ## Dashboard
+  <img width="2275" height="1167" alt="PowerBIDashboard" src="https://github.com/user-attachments/assets/30f1a05e-0bd4-4bf2-9983-3e18a6473cc1" />
+
+
 
   ## Project Insights:
 
