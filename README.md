@@ -1,4 +1,4 @@
-# Hospitality-Data-Analysis(Interactive Dashboard creation using MS Excel)
+# Hospitality-Data-Analysis(Interactive Dashboard creation using MS Excel, Tableau, PowerBI)
 ## Project Objective
   To create an insightful Excel dashboard integrating Salesforce data for the hospitality sector. The goal is to help stakeholders monitor key metrics like revenue,            occupancy, and booking trends for better decision-making.
   ## Dataset used
