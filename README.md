@@ -42,6 +42,6 @@ Cancellation Impact: Noted significant revenue loss due to cancellations and no-
 Regional Performance: Highlighted top-performing states and hotels contributing the most to overall revenue.
 
 ## Final Conclusion:
-The Excel dashboard successfully provided a comprehensive view of hospitality performance metrics using Salesforce data. It enabled stakeholders to monitor real-time trends in revenue, occupancy, and booking behavior. The analysis revealed key insights, such as the impact of cancellations and no-shows on revenue, and higher profitability during weekends. These findings guided strategic decisions in pricing, promotions, and capacity planning. Overall, the project improved business visibility and supported data-driven decision-making across different regions.
+The Hospitality Analysis project successfully delivers actionable insights into hotel performance, customer behavior, and revenue trends. By leveraging visual dashboards and key metrics, it empowers stakeholders to make informed decisions, optimize operations, and enhance guest satisfaction. This foundation enables future growth through data-driven strategy and continuous improvement.
 
     
