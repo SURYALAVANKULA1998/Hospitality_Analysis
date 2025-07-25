@@ -1,4 +1,16 @@
 # Hospitality-Data-Analysis(Interactive Dashboard creation using MS Excel, Tableau and PowerBI)
+# "Hi! I'm my Hotel Dashboard, ready to chat with some numbers!
+
+My Total Revenue is a whopping(means very large or impressive)$1,70,87,71,229 – lots of money! And I have 1,345,990 bookings – so many guests!
+But only 57.87% of my rooms are full – sad beds! A quarter, or 24.83%, of guests cancel – that's rude!
+Weekends are super busy with 78% of bookings, while weekdays are sleepy with just 20%. I have lots of space, but don't fill it all.
+My revenue in May was around $57, June $51, July $48, but one blank month was only $7 – yikes!
+The 'Elite' rooms make the most cash at 36% of my revenue, with 'Premium' at 29%.
+I'm watching all my hotels and months closely. Time to get busy!"
+
+# Future plans is
+
+To make my hotels even better, I need to focus on getting more people into those empty rooms, as my 57.87% occupancy shows there's lots of space. I must try to understand why 24.83% of bookings are canceled and find ways to make guests stick with their plans. Also, I need to work on getting more people in on weekdays, since they only make up 20% of bookings compared to 78% on weekends. I'll figure out what went wrong in that really slow month where revenue dropped to around $7, so it doesn't happen again. I'll keep giving my best rooms (like 'Elite' at 36% and 'Premium' at 29% of revenue) extra care, as they bring in the most money. By doing these things, I'll see my overall success and $1.7B total revenue grow!
 ## Project Objective
   To create an insightful Excel dashboard integrating Salesforce data for the hospitality sector. The goal is to help stakeholders monitor key metrics like revenue,            occupancy, and booking trends for better decision-making.
   ## Dataset used
